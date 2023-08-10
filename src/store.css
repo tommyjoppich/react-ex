@@ -1,0 +1,16 @@
+.layout {
+}
+nav {
+  display: flex;
+  background-color: antiquewhite;
+
+  width: 100vw;
+  gap: 1rem;
+  .links {
+    transition: color 1s;
+    padding: 5px;
+  }
+  .links:hover {
+    color: pink;
+  }
+}

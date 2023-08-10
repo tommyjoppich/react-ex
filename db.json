@@ -1,0 +1,40 @@
+{
+  "cryptids": [
+    {
+      "id": 1,
+      "name": "Nessie",
+      "description": "The Loch Ness Monster (Scottish Gaelic: Uilebheist Loch Nis) affectionately known as Nessie, is a creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with one or more humps protruding from the water. Popular interest and belief in the creature has varied since it was brought to worldwide attention in 1933. Evidence of its existence is anecdotal with a number of disputed photographs and sonar readings.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Hoaxed_photo_of_the_Loch_Ness_monster.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ningen",
+      "description": "The Ningen is described as a whale-like creature that has anatomical similarities to humans. The creature has a face, and in some stories it is said to have extremely large limbs and/or arms and hands, about 20–30 m (65–100 feet) long. The pigmentation of this creature is said to be pale blue. The creature has a large, slit-like mouth and either small or large gaping eyes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ningen.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bigfoot",
+      "description": "Bigfoot is often described as a large, muscular, and bipedal ape or human-like creature covered in black, dark brown, or dark reddish hair. Anecdotal descriptions estimate a height of roughly 6–9 feet (1.8–2.7 m), with some descriptions having the creatures standing as tall as 10–15 feet (3.0–4.6 m). Some alleged observations describe Bigfoot as more human than ape, particularly in regards to the face. In 1971, multiple people in The Dalles, Oregon, filed a police report describing an 'overgrown ape', and one of the men claimed to have sighted the creature in the scope of his rifle, but could not bring himself to shoot it because, 'It looked more human than animal'.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Patterson%E2%80%93Gimlin_film_frame_352.jpg/345px-Patterson%E2%80%93Gimlin_film_frame_352.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mothman",
+      "description": "In West Virginia folklore, the Mothman is a humanoid creature reportedly seen in the Point Pleasant area from November 15, 1966, to December 15, 1967. The first newspaper report was published in the Point Pleasant Register, dated November 16, 1966, titled 'Couples See Man-Sized Bird ... Creature ... Something'. The national press soon picked up the reports and helped spread the story across the United States. The source of the legend is believed to have originated from sightings of out-of-migration sandhill cranes or herons.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mothman_Artist%27s_Impression.png/330px-Mothman_Artist%27s_Impression.png"
+    },
+    {
+      "id": 5,
+      "name": "Jersey Devil",
+      "description": "The creature is often described as a flying biped with hooves, but there are many variations. The common description is that of a bipedal kangaroo-like or wyvern-like creature with a horse- or goat-like head, leathery bat-like wings, horns, small arms with clawed hands, legs with cloven hooves, and a forked or pointed tail. It has been reported to move quickly and is often described as emitting a high-pitched 'blood-curdling scream'.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jersey_Devil.svg/225px-Jersey_Devil.svg.png"
+    },
+    {
+      "id": 6,
+      "name": "Chupacabra",
+      "description": "Physical descriptions of the creature vary. In Puerto Rico and in Latin America it is generally described as a heavy creature, reptilian and alien-like, roughly the size of a small bear, and with a row of spines reaching from the neck to the base of the tail, while in the Southwestern United States it is depicted as more dog-like.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chupacabra_%28artist%27s_rendition%29.jpg/330px-Chupacabra_%28artist%27s_rendition%29.jpg"
+    }
+  ]
+}
